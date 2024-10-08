@@ -1,0 +1,15 @@
+@media screen and (max-width: 1980px) {
+    #buttonSubmit{
+        margin-top: 10px;
+        float: right;
+        width: 10%;
+        min-width: 75px;
+    }
+
+    .address{
+        background-color: aliceblue;
+    }
+    .shipment-payment{
+        background-color: aliceblue;
+    }
+}

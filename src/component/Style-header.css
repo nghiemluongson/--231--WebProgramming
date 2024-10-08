@@ -1,0 +1,19 @@
+#Title{
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+}
+.Header-user{
+    background: white;
+}
+.nav-item{
+    margin-left: 30px;
+
+}
+
+.header-icon{
+    margin-left: 10px;
+}
+.navbar-brand{
+    text-align: center;
+}

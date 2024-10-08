@@ -1,0 +1,26 @@
+@media screen and (max-width: 1920px) {
+    .modal-content{
+        max-width: 100%;
+    }
+    .needHidden{
+        display: none;
+    }
+    label {
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    form {
+        position: relative;
+    }
+    form > button {
+        margin-top: 10px;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .modal-content{
+        transform: scale(0.8,0.8);
+    }
+}

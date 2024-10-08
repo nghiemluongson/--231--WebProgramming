@@ -1,0 +1,19 @@
+.SideBar {
+  position: fixed;
+  left: 0;
+  top: 80px;
+  width: 200px;
+  height: 100%;
+  background-color: #5941BB;
+  z-index: 9999;
+};
+
+
+.listSideBar {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

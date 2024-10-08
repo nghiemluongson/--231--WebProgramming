@@ -1,0 +1,21 @@
+@media screen and (max-width: 1920px) {
+    .product{
+        background-color:black;
+        margin: 0px;
+        padding:0px;
+        position: relative;
+        color: aliceblue;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    h1 {
+        font-size: xx-large;
+    }
+
+    button:hover{
+        opacity: 0.5;
+    }
+    button:checked{
+       opacity: 0.3;
+    }
+}
+

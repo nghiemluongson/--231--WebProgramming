@@ -1,0 +1,21 @@
+.Footer{
+    width: 100vw;
+    background: white;
+    margin-top: 30px;
+}
+.infomation{
+    padding: 20px;
+}
+.inf{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.version{
+    width: 100vw;
+    background: gray;
+    text-align: center;
+}
+.navbar-brand{
+    margin-bottom: 20px;
+    text-align: center;
+}

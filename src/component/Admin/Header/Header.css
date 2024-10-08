@@ -1,0 +1,27 @@
+.Header-Admin {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #180c38;
+  height: 80px;
+  width: 100%;
+  /* other styles */
+}
+.settings{
+  left: 0;
+  height: 80px;
+  width: 80px;
+ 
+}
+.settings>button{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border: none;
+  background-color: white;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

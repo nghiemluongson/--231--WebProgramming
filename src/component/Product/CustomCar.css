@@ -1,0 +1,33 @@
+@media screen and (max-width: 1920px) {
+    .wheel-img {
+        width: 100%;
+
+        max-width: 200px;
+    }
+    #custom_car > form{
+        position: relative;
+        font-size: medium;
+    }
+    #price > p{
+        font-size: x-large;
+    }
+    .colorButton{
+       padding: 0px;
+    }
+    .img-button{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 820px) {
+    .wheel-img{
+        width: 100%;
+        max-width: 100px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .wheel-img{
+        width: 100%;
+        max-width: 50px;
+
+    }
+}

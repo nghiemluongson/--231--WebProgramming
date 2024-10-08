@@ -1,0 +1,41 @@
+.white-text {
+  color: #fff; /* hoặc màu trắng khác tùy ý */
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 20px; 
+}
+
+.title-container, .img-container, .author-container{
+  display: flex;
+  align-items:  center;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 50px;
+}
+
+.author-container{
+  display: flex;
+  align-items:flex-end;
+  justify-content:end;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 18px;  
+}
+.img-child-container{
+  width: 100%;
+}
+.feed-container{
+    font-family:'Times New Roman', Times, serif;
+    width: 100vw;
+  display: flex;
+  align-items:  center;
+  justify-content: center;
+
+}
+.feed-body-container{
+  width: 60vw;
+}
+

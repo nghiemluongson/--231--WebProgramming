@@ -1,0 +1,47 @@
+.Cart{
+    min-height: 100vh;
+    width: 100vw;
+    padding: 50px;
+}
+
+.Product{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+}
+
+.Product p {
+    margin: 10px;
+    text-align: center;
+}
+
+
+input[type="checkbox"] {
+    transform: scale(2); /* Tăng kích thước lên gấp đôi */
+}
+
+
+.btn-pay {
+    background-color: #4CAF50; /* Màu xanh lá */
+    color: white; /* Chữ trắng */
+    border: none; /* Bỏ viền */
+    padding: 10px 20px; /* Kích thước nút */
+    font-size: 16px; /* Cỡ chữ */
+    cursor: pointer; /* Con trỏ chuột */
+    border-radius: 5px; /* Bo góc */
+    transition: background-color 0.3s; /* Hiệu ứng khi hover */
+  }
+  
+  .btn-pay:hover {
+    background-color: #3e8e41; /* Màu xanh lá tối */
+  }
+
+.delete-button{
+    margin-left: 15px;
+}

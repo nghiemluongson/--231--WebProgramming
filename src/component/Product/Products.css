@@ -1,0 +1,70 @@
+.card_heart {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.card_cart {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.card{
+  position: relative;
+  margin: 10px;
+}
+
+.card-text {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 5px 0;
+  margin: 0;
+}
+
+.stylepag a:first-of-type, .stylepag a:last-of-type, .stylepag .is-active{
+  background-color: #9acff4;
+  color: black;
+  font-weight: bold;
+}
+
+.pagination{
+padding: 30px 0;
+margin-left: 0px auto;
+}
+
+.pagination ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+.pagination a{
+display: inline-block;
+padding: 10px 18px;
+color: #222;
+}
+
+.introduce{
+margin: 20px;
+display: flex;
+align-items: center;
+background-color: white;
+width: 90%;
+height: auto;
+border-radius: 20px;
+padding: 10px;
+}
+
+.logoproduct {
+height: 100px;
+object-fit: contain;
+align-items: center;
+}
+
+.namelogo{
+text-align: center;
+}
+
+.introduce p{
+margin-left: 20px;
+}

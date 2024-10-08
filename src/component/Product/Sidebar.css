@@ -1,0 +1,31 @@
+.sidebar{
+    height: 135vh;
+    background-color: #F4F3F3;
+    padding: 10px;
+}
+
+
+.cardtitle{
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .brand img {
+    height: 50px;
+    object-fit: contain;
+  }
+  
+  .brand p {
+    margin: 0;
+    font-size: 1.5rem;
+  }
